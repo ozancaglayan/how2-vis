@@ -1,0 +1,20 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Places365 posteriors",
+      "tensorShape": [
+        150,
+        365
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/ozancaglayan/how2-vis/master/train_cv05-resnet50_places365-prob-r224-c224-pv.npy.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/ozancaglayan/how2-vis/master/avgpool-per-vid.labels.tsv",
+      "sprite": {
+        "imagePath": "https://raw.githubusercontent.com/ozancaglayan/how2-vis/master/sprite_image.jpg",
+        "singleImageDim": [
+          630,
+          630
+        ]
+      }
+    }
+  ]
+}
