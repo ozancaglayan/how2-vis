@@ -1,0 +1,20 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Places365 posteriors",
+      "tensorShape": [
+        150,
+        365
+      ],
+      "tensorPath": "",
+      "sprite": {
+        "imagePath": "",
+        "singleImageDim": [
+          32,
+          32
+        ]
+      },
+      "metadataPath": "",
+    }
+  ]
+}
