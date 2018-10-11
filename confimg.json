@@ -11,8 +11,8 @@
       "sprite": {
         "imagePath": "https://raw.githubusercontent.com/ozancaglayan/how2-vis/master/sprite_image.jpg",
         "singleImageDim": [
-          630,
-          630
+          78,
+          78
         ]
       }
     }
