@@ -10,8 +10,8 @@
       "sprite": {
         "imagePath": "https://raw.githubusercontent.com/ozancaglayan/how2-vis/master/sprite_image.jpg",
         "singleImageDim": [
-          32,
-          32
+          630,
+          630
         ]
       },
       "metadataPath": "https://raw.githubusercontent.com/ozancaglayan/how2-vis/master/avgpool-per-vid.labels.tsv",
